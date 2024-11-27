@@ -4,8 +4,8 @@ import threading
 import time
 import json
 import time
-from test import queue
-from test import main
+from selenium_logic import queue
+from selenium_logic import main
 import sys
 import os
 
